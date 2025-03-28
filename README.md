@@ -1,14 +1,8 @@
-👋 Olá, eu sou Edison Travain <br>
-👀 Estou interessado em desenvolvimento de software, inteligência artificial e segurança cibernética <br>
-🌱 Atualmente estou aprendendo Python, machine learning e frameworks como Django e TensorFlow <br>
-💻 Estou buscando colaborar em projetos open-source de backend ou IA generativa <br>
-📫 Como me contatar: via https://www.linkedin.com/in/edison-travain-98239b354/ <br>
-⚡ Curiosidade: já escrevi um bot que automatiza tarefas repetitivas em menos de 50 linhas de código! <br>
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=30&center=true&vCenter=true&pause=1000&color=6A99E9&width=1000&lines=Ol%C3%A1%2C+seja+bem-vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
 
-##  João Pedro Ribeiro  
+##  Edison Travain  
 
 - 📚 Técnico em Desenvolvimento de Sistemas
 - 🇧🇷 Competidor Brazil na WordSkills Lyon 2024
@@ -16,7 +10,7 @@
 - 🧐 Aberto a novas oportunidades e experiências
 - 📌 Brazil, São Paulo
 
- 
+
 <div style="display: inline_block">
  <h2> Skills 💻 </h2>
   <img align="center" alt="csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -45,8 +39,8 @@
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaoopeedro&layout=compact&theme=tokyonight)
 
 ## Contatos ✉️
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/juliaathar/](https://www.linkedin.com/in/joao-pedro-ribeiro-085490222/))
-  [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaopedronr37@gmail.com)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/juliaathar/](https://www.linkedin.com/in/edison-travain-98239b354/))
+  [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edison_travain@outlook.com)
    <a href="https://instagram.com/011_jotape_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 
