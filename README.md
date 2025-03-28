@@ -1,7 +1,7 @@
 👋 Olá, eu sou Edison Travain <br>
 👀 Estou interessado em desenvolvimento de software, inteligência artificial e segurança cibernética <br>
 🌱 Atualmente estou aprendendo Python, machine learning e frameworks como Django e TensorFlow <br>
-🎶 Estou buscando colaborar em projetos open-source de backend ou IA generativa <br>
+💻 Estou buscando colaborar em projetos open-source de backend ou IA generativa <br>
 📫 Como me contatar: via https://www.linkedin.com/in/edison-travain-98239b354/ <br>
 ⚡ Curiosidade: já escrevi um bot que automatiza tarefas repetitivas em menos de 50 linhas de código! <br>
 <!---
