@@ -35,8 +35,8 @@
 
 
 ## Estatistica 📈
-![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joaoopeedro&show_icons=true&theme=tokyonight)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaoopeedro&layout=compact&theme=tokyonight)
+![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdisonTravain&show_icons=true&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdisonTravain&layout=compact&theme=tokyonight)
 
 ## Contatos ✉️
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edison-travain-98239b354/)
