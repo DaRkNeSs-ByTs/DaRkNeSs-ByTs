@@ -2,8 +2,7 @@
 👀 Estou interessado em desenvolvimento de software, inteligência artificial e segurança cibernética
 🌱 Atualmente estou aprendendo Python, machine learning e frameworks como Django e TensorFlow
 💞️ Estou buscando colaborar em projetos open-source de backend ou IA generativa
-📫 Como me contatar: via e-mail em darknessbyts@example.com ou no X @DaRkNeSs-ByTs
-😄 Pronomes: ele/dele
+📫 Como me contatar: via 
 ⚡ Curiosidade: já escrevi um bot que automatiza tarefas repetitivas em menos de 50 linhas de código!
 <!---
 DaRkNeSs-ByTs/DaRkNeSs-ByTs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
