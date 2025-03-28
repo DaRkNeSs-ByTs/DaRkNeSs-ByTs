@@ -3,7 +3,7 @@
 ## Edison Travain  
 
 - 📚 Técnico em Desenvolvimento de Sistemas
-- 🇧🇷 Competidor Brazil na WordSkills Lyon 2024
+- 🇧🇷 Competidor Brazil na WordSkills Lyon 2025
 - 👨🏻‍💻 Desenvolvedor de aplicativos
 - 🧐 Aberto a novas oportunidades e experiências
 - 📌 Brazil, São Paulo
