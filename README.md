@@ -3,10 +3,10 @@
 ## Edison Travain  
 
 - 📚 Técnico em Desenvolvimento de Sistemas
-- 🇧🇷 Competidor Brazil na WordSkills Lyon 2025
 - 👨🏻‍💻 Desenvolvedor de aplicativos
 - 🧐 Aberto a novas oportunidades e experiências
 - 📌 Brazil, São Paulo
+
 
 <div style="display: inline_block">
  <h2> Skills 💻 </h2>
@@ -22,6 +22,7 @@
   <img align="center" alt="sql" height="30" width="40" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg">
 </div>
 
+
 <div style="display: inline_block">
   <h2> Tools ⚙️</h2>
   <img align="center" alt="visuals tudio" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
@@ -30,17 +31,19 @@
   <img align="center" alt="figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 </div>
 
+
 ## Contatos ✉️
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edison-travain-98239b354/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edison_travain@outlook.com)
 <a href="https://www.instagram.com/edison_travain/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
 
 ### 📈 Estatísticas
 
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="150" 
+    height="130"
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=DaRkNeSs-ByTs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -48,7 +51,8 @@
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="150" 
+      height="130"
+      style="padding-right: 10px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaRkNeSs-ByTs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
