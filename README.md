@@ -50,8 +50,7 @@
 
 <img 
     alt="GitHub Stats" 
-    height="140" 
-    style="float: left; padding-right: 10px;" 
+    height="150"  
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaRkNeSs-ByTs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
 />
 
