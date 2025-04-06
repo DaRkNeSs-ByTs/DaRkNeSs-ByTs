@@ -3,7 +3,7 @@
 ## Edison Travain  
 
 - 📚 Técnico em Desenvolvimento de Sistemas
-- 👨🏻‍💻 Desenvolvedor de aplicativos
+- 👨🏻‍💻 Desenvolvedor Back-End
 - 🧐 Aberto a novas oportunidades e experiências
 - 📌 Brazil, São Paulo
 
@@ -34,7 +34,7 @@
 
 ## Contatos ✉️
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edison-travain-98239b354/)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edison_travain@outlook.com)
+[![Outlook](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edison_travain@outlook.com)
 <a href="https://www.instagram.com/edison_travain/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 
