@@ -3,7 +3,7 @@
 ## Edison Travain  
 
 - 📚 Técnico em Desenvolvimento de Sistemas
-- 👨🏻‍💻 Desenvolvedor Back-End
+- 👨🏻‍💻 Desenvolvedor Full-Stack
 - 🧐 Aberto a novas oportunidades e experiências
 - 📌 Brazil, São Paulo
 
