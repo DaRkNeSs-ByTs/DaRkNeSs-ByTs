@@ -52,7 +52,7 @@
     height="150"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaRkNeSs-ByTs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
 />
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DaRkNeSs-ByTs&" alt="DaRkNeSs-ByTs" /></p>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joaoopeedro/Joaoopeedro/output/github-contribution-grid-snake-dark.svg">
