@@ -51,17 +51,15 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaRkNeSs-ByTs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </p>
 
----
 ### 🔥 Streak
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaRkNeSs-ByTs&theme=tokyonight" alt="streak" />
 </p>
----
+
 ### 🏆 Troféus
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DaRkNeSs-ByTs&theme=tokyonight&row=1&column=6" alt="trophy" />
 </p>
----
 
 <p align="center">
   <picture>
