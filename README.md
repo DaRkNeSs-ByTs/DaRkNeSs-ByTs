@@ -41,7 +41,7 @@
 
 ### 📈 Estatísticas
 
-  <p><img
+ <br <p><img
     align="left"
     alt="GitHub Stats"
     height="140"
@@ -49,13 +49,13 @@
     src="https://github-readme-stats.vercel.app/api?username=DaRkNeSs-ByTs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   /></p>
 
-<p><img
+<img
      align="left"
     alt="GitHub Stats"
     height="140"
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaRkNeSs-ByTs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-/></p>
+/></br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DaRkNeSs-ByTs" alt="DaRkNeSs-ByTs" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DaRkNeSs-ByTs" alt="DaRkNeSs-ByTs" /></a></p>
