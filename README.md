@@ -50,8 +50,10 @@
   />
 
 <img
+     align="left"
     alt="GitHub Stats"
-    height="150"
+    height="140"
+    style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaRkNeSs-ByTs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
 />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DaRkNeSs-ByTs" alt="DaRkNeSs-ByTs" /></p>
