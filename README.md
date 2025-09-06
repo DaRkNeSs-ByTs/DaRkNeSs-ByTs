@@ -46,26 +46,35 @@
 
 ### 📈 Estatísticas
 
- <img
-    align="left"
-    alt="GitHub Stats"
-    height="150"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=DaRkNeSs-ByTs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=DaRkNeSs-ByTs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaRkNeSs-ByTs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+</p>
 
-<img
-    align="left"
-    alt="GitHub Stats"
-    height="150"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaRkNeSs-ByTs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DaRkNeSs-ByTs" alt="DaRkNeSs-ByTs" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DaRkNeSs-ByTs" alt="DaRkNeSs-ByTs" /></a></p>
+### 🔥 Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaRkNeSs-ByTs&theme=tokyonight" alt="streak" />
+</p>
+
+---
+
+### 🏆 Troféus
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DaRkNeSs-ByTs&theme=tokyonight&row=1&column=6" alt="trophy" />
+</p>
+
+---
+
+### 🐍 Snake Contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DaRkNeSs-ByTs/DaRkNeSs-ByTs/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DaRkNeSs-ByTs/DaRkNeSs-ByTs/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DaRkNeSs-ByTs/DaRkNeSs-ByTs/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 
-<p><picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joaoopeedro/Joaoopeedro/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Joaoopeedro/Joaoopeedro/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Joaoopeedro/Joaoopeedro/output/github-contribution-grid-snake.svg">
-</picture></p>
