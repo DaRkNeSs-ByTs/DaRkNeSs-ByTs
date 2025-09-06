@@ -16,7 +16,7 @@
   <img align="center" alt="mysql" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="mongodb" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg">
     
-   <!--<img align="center" alt="NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
+   <!-- <img align="center" alt="NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
    <img align="center" alt="csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="react" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   <img align="center" alt="sql" height="30" width="40" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg">
@@ -71,10 +71,19 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DaRkNeSs-ByTs/DaRkNeSs-ByTs/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DaRkNeSs-ByTs/DaRkNeSs-ByTs/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DaRkNeSs-ByTs/DaRkNeSs-ByTs/output/github-contribution-grid-snake.svg">
+   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joaoopeedro/Joaoopeedro/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Joaoopeedro/Joaoopeedro/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Joaoopeedro/Joaoopeedro/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
+
+
+<!-- 
+Subir depois o Projeto
+<p><picture align="center">
+   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DaRkNeSs-ByTs/DaRkNeSs-ByTs/output/github-contribution-grid-snake-dark.svg">
+   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DaRkNeSs-ByTs/DaRkNeSs-ByTs/output/github-contribution-grid-snake.svg">
+   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DaRkNeSs-ByTs/DaRkNeSs-ByTs/output/github-contribution-grid-snake.svg">
+</picture></p> -->
 
 
