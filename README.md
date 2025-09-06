@@ -36,7 +36,7 @@
 ## Contatos ✉️
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edison-travain-98239b354/)
 [![Outlook](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edison_travain@outlook.com)
-<p><a href="https://www.instagram.com/edison_travain/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a></p>
+<a href="https://www.instagram.com/edison_travain/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 
 ### 📈 Estatísticas
@@ -56,6 +56,7 @@
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaRkNeSs-ByTs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
 /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DaRkNeSs-ByTs" alt="DaRkNeSs-ByTs" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DaRkNeSs-ByTs" alt="DaRkNeSs-ByTs" /></a></p>
 
