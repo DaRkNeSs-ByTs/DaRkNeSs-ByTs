@@ -52,22 +52,16 @@
 </p>
 
 ---
-
 ### 🔥 Streak
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaRkNeSs-ByTs&theme=tokyonight" alt="streak" />
 </p>
-
 ---
-
 ### 🏆 Troféus
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DaRkNeSs-ByTs&theme=tokyonight&row=1&column=6" alt="trophy" />
 </p>
-
 ---
-
-### 🐍 Snake Contributions
 
 <p align="center">
   <picture>
