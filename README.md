@@ -54,7 +54,7 @@
 
 ### 🔥 Streak
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=DaRkNeSs-ByTs&theme=tokyonight&locale=pt_BR" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=DaRkNeSs-ByTs&theme=tokyonight&locale=pt_BR" alt="Streak" /></a>
 </p>
 
 ### 🏆 Troféus
